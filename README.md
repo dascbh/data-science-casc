@@ -38,7 +38,7 @@ Pode parecer uma atividade simples, porém quando se trata de mercado financeiro
 5) aperfeicoamento dos gráficos (inclusão de linha de tendência, médias móveis, legenda, etc)
 6) documentação e conclusão
 
-# concluões
+# conclusões
 gráfico de evolução do preço - funcinou dentro do esperado, em instantes é possível visualizar a evolução dos preços em um período parcial ou completo do dia. ao adicionar as médias movieis o grafico ficou ainda mais útil e atraente.
 
 gráfico de volume - funcinou dentro do esperado, é possivel observar os picos de valores de volume ao longo do período. um fato observado foi que o dataset traz em cada linha de cotação o valor acumulado do volume no período, ou seja, a somatória do anterior mais o último, e não o valor individual por cotação.
