@@ -30,7 +30,7 @@ Esta análise tem como objetivo gerar um método de visualização gráfica simp
 
 Pode parecer uma atividade simples, porém quando se trata de mercado financeiro e em especial bolsa de valores americana (NASDAQ) é bastante difícil ter esse tipo de informação/visualização. Na internet, são pouquíssimas as fontes de dados atualizados, além de quase não existirem ferramentas gratuitas que geram gráficos on-demand para períodos passados.
 
-# etapas do desenvolvimento da análise
+# etapas do desenvolvimento
 1) obtenção, validação e limpeza do dataset
 2) construção do recurso para seleção de data e range de horário
 3) indexação e preparação dos dados para melhor utilização ao longo da análise
