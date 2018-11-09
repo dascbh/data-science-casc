@@ -1,5 +1,5 @@
-# informacoes gerais
-Este e um projeto final da materia de Data Science (Catolica de Santa Catarina - 2018/2).
+# informações gerais
+Este e um projeto final da materia de Data Science (Catlógica de Santa Catarina - 2018/2).
 
 # author
 Daniel abraão Silva Costa <dascbh@gmail.com>
